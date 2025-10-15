@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+httpx
+PyGithub
+python-multipart
+pydantic
+gitpython
+rich
+python-dotenv
+aiofiles
